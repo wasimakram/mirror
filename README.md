@@ -20,8 +20,8 @@ Or install it yourself as:
 
 * Timeline
   - Card `insert`, `update`, `get`
-      options
-      bundle
+  - CardOptions
+  - CardBundle
 * ShareEntities
 * Subscriptions
 
