@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Wasim Akram"]
   spec.email         = ["mailwasim@gmail.com"]
   spec.description   = %q{Google Glass mirror API ruby wrapper}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.summary       = %q{Initial release}
   spec.homepage      = "https://github.com/wasimakram/mirror"
   spec.license       = "MIT"
 
