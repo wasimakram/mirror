@@ -1,3 +1,16 @@
+[![Gem Version](https://badge.fury.io/rb/mirror.png)][gem]
+[![Build Status](https://secure.travis-ci.org/wasimakram/mirror.png?branch=master)][travis]
+[![Dependency Status](https://gemnasium.com/wasimakram/mirror.png?travis)][gemnasium]
+[![Code Climate](https://codeclimate.com/github/wasimakram/mirror.png)][codeclimate]
+[![Coverage Status](https://coveralls.io/repos/wasimakram/mirror/badge.png?branch=master)][coveralls]
+
+[gem]: https://rubygems.org/gems/mirror
+[travis]: http://travis-ci.org/wasimakram/mirror
+[gemnasium]: https://gemnasium.com/wasimakram/mirror
+[codeclimate]: https://codeclimate.com/github/wasimakram/mirror
+[coveralls]: https://coveralls.io/r/wasimakram/mirror
+
+
 # Mirror
 
 Google Glass mirror API ruby wrapper.
