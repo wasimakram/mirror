@@ -1,6 +1,6 @@
 # Mirror
 
-TODO: Write a gem description
+Google Glass mirror API ruby wrapper.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: Comming Soon
 
 ## Contributing
 
