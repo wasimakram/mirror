@@ -18,7 +18,22 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Comming Soon
+* Timeline
+  - Card `insert`, `update`, `get`
+      options
+      bundle
+* ShareEntities
+* Subscriptions
+
+## Glass Guidelines
+  Just to remind you while developing.
+
+* Design for Glass
+* Don't get in the way
+* Keep it timely
+* Avoid he unexpected
+
+  
 
 ## Contributing
 
