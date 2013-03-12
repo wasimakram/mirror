@@ -28,10 +28,10 @@ Or install it yourself as:
 ## Glass Guidelines
   Just to remind you while developing.
 
-* Design for Glass
-* Don't get in the way
-* Keep it timely
-* Avoid he unexpected
+* Design for Glass.
+* Don't get in the way.
+* Keep it timely.
+* Avoid the unexpected.
 
   
 
